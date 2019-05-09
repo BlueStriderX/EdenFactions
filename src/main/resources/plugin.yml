@@ -1,0 +1,15 @@
+main: net.skiesofeden.main.Main
+name: EdenFactions
+author: SOEDevTeam
+version: 0.1
+api-version: 1.12.2
+depend: [Factions]
+commands: 
+ provinceclaim:
+  usage: /provinceclaim
+  description: Claims the current province for your faction
+
+permissions:
+ skiesofeden.provinceclaim:
+  description: Access to province claim command
+  default: true
