@@ -1,7 +1,13 @@
-/Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/mobs/Rifleman.java
-/Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/province/Province.java
+/Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/buildings/Building.java
+/Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/buildings/Shipyard.java
 /Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/province/Continent.java
-/Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/cities/City.java
+/Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/buildings/Dockyard.java
 /Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/main/Main.java
 /Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/buildings/Barracks.java
+/Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/buildings/CityHall.java
+/Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/mobs/Rifleman.java
+/Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/buildings/Shop.java
+/Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/province/Province.java
+/Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/cities/City.java
 /Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/cities/CityType.java
+/Users/garretreichenbach/Documents/GitHub/EdenFactions/src/main/java/net/skiesofeden/buildings/Warehouse.java
